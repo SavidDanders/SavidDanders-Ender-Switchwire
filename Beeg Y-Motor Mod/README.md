@@ -17,7 +17,7 @@ Start by printing out all the parts in the STL folder. Mechanical parts that are
 
 Drilling the Y-Carriage. Follow the diagram below to align and secure the drill tool. Use 2x M5 bolts and nuts in the open holes to secure the tool in place. Use a drill with M3 or equivalent bit size to drill the remaining 3 holes. ⚠️ Be careful with this process. Have parts properly secured while drilling. I will not be liable for personal or property damages.
 
-[Image goes here]
+![Alignment tool diagram](https://github.com/SavidDanders/SavidDanders-Ender-Switchwire/blob/main/Images/alignment.PNG?raw=true)
 
 With the carriage drilled the single MGN12H linear rail can be attached to the top of the Y extrusion. From here you can reference the CAD files for a better idea of how everything is assembled. As of this initial release there is no belt tensioner for the Y-axis. Properly tensioning the Y belt is difficult but not impossible. My method involves having the motor attached, the belt-fed through the belt holder, and clamped. You can then use insert the y_idler_top and use the M5 bolt as leverage to secure the belt. 
 
