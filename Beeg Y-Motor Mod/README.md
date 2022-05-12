@@ -15,7 +15,7 @@ If you are not happy with the speeds and accelerations of the smaller Creality o
 
 ⚠️ Before you start this will involve drilling holes into your Y-Axis carriage! If you are not okay with this or do not have access to a drill do not attempt this mod.
 
-Start by printing out all the parts in the STL folder. Mechanical parts that are going inside the enclosure should be printed in ABS. The grills, decks, and drill tool can be printed from PLA if it makes life easier.
+Start by printing out all the parts in the STL folder. I have orianted all the files for optimal printing. Mechanical parts that are going inside the enclosure should be printed in ABS. The grills, decks, and drill tool can be printed from PLA if it makes life easier.
 
 ### Drilling the Y-Carriage
 Follow the diagram below to align and secure the drill tool. Use 2x M5 bolts and nuts in the open holes to secure the tool in place. Use a drill with M3 or equivalent bit size to drill the remaining 3 holes.
