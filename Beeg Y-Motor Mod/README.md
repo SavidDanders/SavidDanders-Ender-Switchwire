@@ -3,6 +3,8 @@
 
 This is my mod to allow for a larger Y-axis motor on the boubounokefalos Ender 3 to Voron Switchwire conversion. My goal is to keep the Y-Motor within the bound of the frame to avoid having to make changes to the enclosure in the future. This re-work changes the belt path to match closer to the original Voron Switchwire design. Full credit to [Gizzle](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire) for the motor mounts. I have used the same motor mounts and idler as their mod just mirrored for clearance.
 
+![Beeg Y-Motor Mod](https://github.com/SavidDanders/SavidDanders-Ender-Switchwire/blob/main/Images/y_motor.PNG?raw=true)
+
 ## Why should I do this?
 
 If you are not happy with the speeds and accelerations of the smaller Creality or other motors, this allows for more clearance for a bigger motor. If you don't want to spend the money for 2 linear rails on the Y-Axis this reduces it to 1. If you have lots of friction or binding on the Y-Axis with 2 rails this is for you.
@@ -15,7 +17,10 @@ If you are not happy with the speeds and accelerations of the smaller Creality o
 
 Start by printing out all the parts in the STL folder. Mechanical parts that are going inside the enclosure should be printed in ABS. The grills, decks, and drill tool can be printed from PLA if it makes life easier.
 
-Drilling the Y-Carriage. Follow the diagram below to align and secure the drill tool. Use 2x M5 bolts and nuts in the open holes to secure the tool in place. Use a drill with M3 or equivalent bit size to drill the remaining 3 holes. ⚠️ Be careful with this process. Have parts properly secured while drilling. I will not be liable for personal or property damages.
+### Drilling the Y-Carriage
+Follow the diagram below to align and secure the drill tool. Use 2x M5 bolts and nuts in the open holes to secure the tool in place. Use a drill with M3 or equivalent bit size to drill the remaining 3 holes.
+
+⚠️ Be careful with this process. Have parts properly secured while drilling. I will not be liable for personal or property damages.
 
 ![Alignment tool diagram](https://github.com/SavidDanders/SavidDanders-Ender-Switchwire/blob/main/Images/alignment.PNG?raw=true)
 
@@ -23,7 +28,7 @@ With the carriage drilled the single MGN12H linear rail can be attached to the t
 
 ## Future changes
 
-This is my passion project updates may be sporadic or non-existent. With that being said I would like to improve this mod in the future.
+This is my passion project, updates may be sporadic or non-existent. With that being said I would like to improve this mod in the future.
 * Bill of Materials
 * Y-Axis Belt Tensioner
 * Updated CAD with all hardware
