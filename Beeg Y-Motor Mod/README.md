@@ -15,7 +15,7 @@ If you are not happy with the speeds and accelerations of the smaller Creality o
 
 ⚠️ Before you start this will involve drilling holes into your Y-Axis carriage! If you are not okay with this or do not have access to a drill do not attempt this mod.
 
-Start by printing out all the parts in the STL folder. I have orianted all the files for optimal printing. Mechanical parts that are going inside the enclosure should be printed in ABS. The grills, decks, and drill tool can be printed from PLA if it makes life easier.
+Start by printing out all the parts in the STL folder. I have oriented all the files for optimal printing. Mechanical parts that are going inside the enclosure should be printed in ABS. The grills, decks, and drill tool can be printed from PLA if it makes life easier.
 
 ### Drilling the Y-Carriage
 Follow the diagram below to align and secure the drill tool. Use 2x M5 bolts and nuts in the open holes to secure the tool in place. Use a drill with M3 or equivalent bit size to drill the remaining 3 holes.
@@ -28,8 +28,10 @@ With the carriage drilled the single MGN12H linear rail can be attached to the t
 
 ## Future changes
 
-This is my passion project, updates may be sporadic or non-existent. With that being said I would like to improve this mod in the future.
-* Bill of Materials
-* Y-Axis Belt Tensioner
-* Updated CAD with all hardware
-* Better looking back middle grill
+This is my passion project, updates may be ~~sporadic or~~ non-existent. With that being said I would like to improve this mod in the future.
+* ~~Bill of Materials~~
+* ~~Y-Axis Belt Tensioner~~
+* ~~Updated CAD with all hardware~~
+* ~~Better looking back middle grill~~
+
+Update 8/2026: I am no longer working on this mod. My E3-PRO VSW uses the [BOM Y Axis from release 2](https://github.com/boubounokefalos/Ender_SW)
