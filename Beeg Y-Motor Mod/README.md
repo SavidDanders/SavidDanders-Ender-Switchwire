@@ -29,9 +29,9 @@ With the carriage drilled the single MGN12H linear rail can be attached to the t
 ## Future changes
 
 This is my passion project, updates may be ~~sporadic or~~ non-existent. With that being said I would like to improve this mod in the future.
-* ~~Bill of Materials~~
-* ~~Y-Axis Belt Tensioner~~
-* ~~Updated CAD with all hardware~~
-* ~~Better looking back middle grill~~
+* Bill of Materials
+* Y-Axis Belt Tensioner
+* Updated CAD with all hardware
+* Better looking back middle grill
 
 Update 8/2026: I am no longer working on this mod. My E3-PRO VSW uses the [BOM Y Axis from release 2](https://github.com/boubounokefalos/Ender_SW)
